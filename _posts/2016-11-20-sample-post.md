@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Sample Post
+title: Sample Post from yocos
 tags: [sample post]
 date-string: NOVEMBER 20, 2016
 ---
