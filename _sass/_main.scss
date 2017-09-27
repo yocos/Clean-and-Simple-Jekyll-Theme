@@ -193,13 +193,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 		@media #{$large} {
 			max-width: $column-width;			
 		}
+		margin-bottom: 25px;
     }
     
     img:hover {
         opacity: 0.8;
-	}
-	
-	margin-top: 25px;
+	}		
 }
 
 .post-date {
