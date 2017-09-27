@@ -1,5 +1,5 @@
 title:            Exception Handlers
-description:      Something...
+description:      My development blog...
        
 
 future:      false  # publish future dated posts --  true, false (default) 
@@ -10,6 +10,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-seo-tag
   
 sass:
   sass_dir: _sass

@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="45.719952mm"
+   height="9.143259mm"
+   viewBox="0 0 161.99983 32.397374"
    id="svg4792"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="header 2.svg">
+   sodipodi:docname="header 2.svg"
+   inkscape:export-filename="C:\TFS\github\yocos.github.io\images\header\custom2.png"
+   inkscape:export-xdpi="600.00055"
+   inkscape:export-ydpi="600.00055">
   <defs
      id="defs4794">
     <clipPath
@@ -329,9 +332,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="410.22223"
-     inkscape:cy="715.24053"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="93.067821"
+     inkscape:cy="23.433251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -339,7 +342,11 @@
      inkscape:window-height="1017"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata4797">
     <rdf:RDF>
@@ -355,7 +362,9 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline"
+     transform="translate(-310.42867,-341.87781)">
     <g
        transform="matrix(0.125,0,0,-0.125,300.90474,445.77181)"
        id="g3528">
